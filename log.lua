@@ -389,4 +389,5 @@ spawn(function()
         end, debug.traceback)
         if not a then _print("FAIL", a, b) anat("Finder Crashed\n", b or 'unexcepted error') end 
     end
+
 end)
