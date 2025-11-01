@@ -135,7 +135,7 @@ if not LPH_OBFUSCATED then
         elseif placeId == 4442272183 then
             Sea = 'Dressrosa'
             SeaIndex = 2
-        elseif placeId == 7449423635 then
+        elseif placeId == 100117331123089 then
             Sea = 'Zou'
             SeaIndex = 3
         end
